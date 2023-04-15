@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-My major interest and strength lie in <strong>Machine Learning</strong>, Competitive Programming and Web DEvelopment. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am self-motivated and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
+My major interest and strength lie in <strong>Machine Learning</strong>, <strong>Competitive Programming</strong>, <strong>Data Structures & Algorithms </strong>and <strong>Web DEvelopment</strong>. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am self-motivated and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
 
 
 📈 **My GitHub Status**:  
