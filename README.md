@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm KOKKIRALA ABHINAV</h1>
+<h3 align="center">I am Undergraduate student majoring in Computer Science and Engineering From IIITDM Jabalpur</h3>
 <h3 align="center">A passionate DATA SCIENTIST and FRONTEND DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha638&label=Profile%20views&color=0e75b6&style=flat" alt="kanha638" /> </p>
 
 - 🌱 I’m currently learning *MACHINE LEARNING*
 
-- 💬 Ask me about *EDA(Eploratary Data Analysis)*
+- 💬 Ask me about *EDA(Eploratary Data Analysis)* and * Web Development*
 
 - 📫 How to reach me *kokkiralaabhinav@gmail.com*
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kokkirala-abhinav-572102240/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZsKZT_EjI29mcGXIUS5xyu1TFvmzUDu8HA&usqp=CAU" alt="kokkiralaabhinav" height="60" width="60" /></a>
-<a href="https://www.instagram.com/abhinav_kokkirala/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kokkiralaabhinav" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhinav_kokkirala/?hl=en" target="blank"><img align="center" src=" https://drive.google.com/file/d/1yX41ylnslBNBzLLJl6HTdkV-vjbgPaxE/view?usp=sharing  " alt="kokkiralaabhinav" height="60" width="60" /></a>
   
 
 <!--
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-My major interest and strength lie in machine learning, Deep Learning, and Data Science. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am self-motivated and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
+My major interest and strength lie in machine learning, Competitive Programming and Web DEvelopment. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am self-motivated and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
 
 
 📈 **My GitHub Status**:  
