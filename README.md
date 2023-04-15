@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact *🙃 I love to work 🙃*
 
+- 🙂 I am looking forward to join, work for an organisation and use my skill sets to my level best and contribute for the team .
+
+- 👯 I’m looking to collaborate with passionate web developers  and data scientists for building projects on Web Development and Machine Learning.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kokkirala-abhinav-572102240/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZsKZT_EjI29mcGXIUS5xyu1TFvmzUDu8HA&usqp=CAU" alt="kokkiralaabhinav" height="60" width="60" /></a>
