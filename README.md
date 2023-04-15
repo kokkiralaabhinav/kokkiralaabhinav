@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kokkirala-abhinav-572102240/" target="blank"><img align="center" src="https://github.com/kokkiralaabhinav/kokkiralaabhinav/blob/main/file/Linkedin.jpg" alt="kokkiralaabhinav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kokkirala-abhinav-572102240/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZsKZT_EjI29mcGXIUS5xyu1TFvmzUDu8HA&usqp=CAU" alt="kokkiralaabhinav" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhinav_kokkirala/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kokkiralaabhinav" height="30" width="40" /></a>
   
 
