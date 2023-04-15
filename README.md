@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact *🙃 I love to work 🙃*
 
+- 🤔 I always strive to solve problems in much more optimized way by using algorithmic skills.
+
 - 🙂 I am looking forward to join, work for an organisation and use my skill sets to my level best and contribute for the team .
 
 - 👯 I’m looking to collaborate with passionate web developers  and data scientists for building projects on Web Development and Machine Learning.
