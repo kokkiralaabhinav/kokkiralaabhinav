@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning *MACHINE LEARNING*
 
-- 💬 Ask me about *EDA(Eploratary Data Analysis)* and * Web Development*
+- 💬 Ask me about *EDA(Eploratary Data Analysis)* and *Web Development*
 
 - 📫 How to reach me *kokkiralaabhinav@gmail.com*
 
