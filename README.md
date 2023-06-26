@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm KOKKIRALA ABHINAV</h1>
 <h3 align="center">I am Undergraduate student majoring in Computer Science and Engineering From IIITDM Jabalpur</h3>
 <h3 align="center">A passionate DATA SCIENTIST and FRONTEND DEVELOPER from India</h3>
+<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Coding"  width="400px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha638&label=Profile%20views&color=0e75b6&style=flat" alt="kanha638" /> </p>
 
