@@ -7,7 +7,7 @@
 <h3 align="center">A passionate DATA SCIENTIST and FRONTEND DEVELOPER from India</h3>
 <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Coding"  width="400px" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha638&label=Profile%20views&color=0e75b6&style=flat" alt="kokkiralaabhinav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kokkiralaabhinav&label=Profile%20views&color=0e75b6&style=flat" alt="kokkiralaabhinav" /> </p>
 
 - 🌱 I’m currently learning *MACHINE LEARNING*
 
